@@ -146,7 +146,7 @@ html, body {
 #menu2 {
   position: absolute;
     top: 50px;
-    left: 50px;
+    left: 10px;
   display: block;
   width: 100%;
   max-width: 200px;
