@@ -145,8 +145,8 @@ html, body {
 
 #menu2 {
   position: absolute;
-    top: 10px;
-    left: 10px;
+    top: 50px;
+    left: 50px;
   display: block;
   width: 100%;
   max-width: 200px;
@@ -381,7 +381,7 @@ html, body {
     left: 0;
     overflow: hidden;
     z-index: 1;
-    background: url(https://raw.githubusercontent.com/ketlller/spacewarsgametoken/master/css/bg.jpg) no-repeat #94a233;
+    background: url(https://raw.githubusercontent.com/ketlller/spacewarsgame/master/css/bg1.jpg) no-repeat #94a233;
     background-size: cover;
 }
 
